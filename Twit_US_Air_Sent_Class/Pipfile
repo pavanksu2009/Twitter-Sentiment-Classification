@@ -15,6 +15,7 @@ scikit-learn = "*"
 nltk = "*"
 ipykernel = "*"
 beautifulsoup4 = "*"
+imblearn = "*"
 
 [dev-packages]
 
